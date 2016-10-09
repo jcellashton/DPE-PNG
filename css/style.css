@@ -71,6 +71,7 @@ a:focus {
 }
 
 .container {
+    background: url('../images/banner1.jpg') no-repeat left center;
     max-width: 100% !important;
     width: 1170px !important;
 }
