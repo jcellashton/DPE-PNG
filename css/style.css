@@ -71,11 +71,16 @@ a:focus {
 }
 
 .container {
-    background: url('../images/banner1.jpg') no-repeat;
+
     max-width: 100% !important;
     width: 1170px !important;
 }
-
+.banner {
+    padding: 10px 0 0;
+    background: url(../images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
 .wrapper {
     position: relative;
     overflow: hidden;
