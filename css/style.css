@@ -77,7 +77,7 @@ a:focus {
 }
 .banner {
     padding: 10px 0 0;
-    background: url(../images/banner1.jpg);
+    background:
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
