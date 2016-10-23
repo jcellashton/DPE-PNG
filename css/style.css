@@ -75,6 +75,12 @@ a:focus {
     max-width: 100% !important;
     width: 1170px !important;
 }
+
+.col-md-3.logo {
+    margin-right: 10%;
+    margin-bottom: -1%;
+    margin-top: 8px;
+}
 .banner {
     padding: 10px 0 0;
     background:;
