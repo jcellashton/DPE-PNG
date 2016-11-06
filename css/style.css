@@ -552,7 +552,7 @@ ul.main-menu>li.dropdown>ul>li:hover ul {
     display: block;
     position: absolute;
 }
-ul.main-menu>li.dropdown>ul>li:hover ul:before {
+ul.main-menu>li.dropdown>ul>li ul:before {
     content: "";
     display: block;
     visibility: hidden;
