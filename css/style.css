@@ -547,7 +547,7 @@ li.dropdown i.fa.dropdown-toggle {
 }
 
 ul.main-menu>li.dropdown>ul>li:hover ul {
-    margin-left: 103%;
+    margin-left: 106%;
     margin-top: -48%;
     display: block;
     position: absolute;
