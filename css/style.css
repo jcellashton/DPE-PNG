@@ -545,13 +545,14 @@ li.dropdown i.fa.dropdown-toggle {
     color: #aaa;
     cursor: pointer;
 }
-
+/* --------------- Right positioned sub sub menu --------------- */
 ul.main-menu>li.dropdown>ul>li:hover ul {
     margin-left: 106%;
     margin-top: -48%;
     display: block;
     position: absolute;
 }
+/* --------------- East facing triangle pointing on right positioned sub sub menu --------------- */
 ul.main-menu>li.dropdown>ul>li ul:before {
     content: "";
     display: block;
