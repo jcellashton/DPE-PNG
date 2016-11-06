@@ -559,7 +559,7 @@ ul.main-menu>li.dropdown>ul>li ul:before {
     opacity: 0;
     position: absolute;
     top: -20px!important;
-    left: -30px;
+    left: -90px;
     border: 10px solid transparent;
     border-left-color: #fff;
     -webkit-transition: 1s ease all;
