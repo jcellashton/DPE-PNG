@@ -100,6 +100,7 @@ header {
     right: 0;
     left: 0;
     bottom: 0;
+    z-index:1;
    
 }
 
@@ -228,7 +229,7 @@ section {
 main.main {
     padding-bottom: 75px;
     padding-top: 100px;
-    z-index: 2;
+    margin-top:100px;
 }
 
 
