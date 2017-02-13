@@ -767,6 +767,10 @@ section.home-slider {
     margin: 0;
 }
 
+.flexslider img {
+    height: 300px !important;
+}
+
 .flexslider li.has-overlay:after {
     position: absolute;
     top: 0;
